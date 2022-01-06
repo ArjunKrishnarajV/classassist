@@ -1,2 +1,4 @@
 # classassist
 Class Assist is a utility application used to join your online classes with one click on your android phone or PC (Windows,Mac)
+Now during online classes checking the period each time in the time table and searching the links for that class seems to be easy but it is always better when things happen with least effort for which I developed an application – Class Assist , which has your time table pre-programmed in it also the links for it whenever you launch this application it checks the current date and time and using pre-programmed time table it checks the period at that time and fetches the link for that class and redirects you to that link automatically all these processes happens in less than ten seconds .
+Note : This full project is made on Unity 2020.3.25f1 and the language used is C# .
